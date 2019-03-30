@@ -21,3 +21,4 @@ void compute(int *arr, int size)
 	}
 	free (result);
 }
+
